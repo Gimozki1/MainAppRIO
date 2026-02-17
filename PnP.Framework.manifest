@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd">
+  <assemblyIdentity name="PnP.Framework" processorArchitecture="msil" publicKeyToken="0D501F89F11B748C" version="1.17.0.0" />
+  <file name="PnP.Framework.dll" />
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="netstandard" publicKeyToken="cc7b13ffcd2ddd51" version="2.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="AngleSharp" publicKeyToken="e83494dcdc6d31ea" version="0.17.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.Runtime" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Bcl.HashCode" publicKeyToken="cc7b13ffcd2ddd51" version="1.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Identity.Client" publicKeyToken="0a613f4dd989e8ae" version="4.61.3.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Text.Json" publicKeyToken="cc7b13ffcd2ddd51" version="4.0.1.2" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.Taxonomy" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.DocumentManagement" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Office.Client.Policy" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.Publishing" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="PnP.Core" publicKeyToken="0d501f89f11b748c" version="1.14.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.Search" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Online.SharePoint.Client.Tenant" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.WorkflowServices" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Extensions.DependencyInjection.Abstractions" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Newtonsoft.Json" publicKeyToken="30ad4fe6b2a6aeed" version="13.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.IdentityModel.Tokens.Jwt" publicKeyToken="31bf3856ad364e35" version="6.35.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Graph.Core" publicKeyToken="31bf3856ad364e35" version="1.25.1.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.SharePoint.Client.UserProfiles" publicKeyToken="71e9bce111e9429c" version="16.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.IO.Packaging" publicKeyToken="b03f5f7f11d50a3a" version="4.0.5.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="AngleSharp.Css" publicKeyToken="e83494dcdc6d31ea" version="0.17.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.DirectoryServices" publicKeyToken="b03f5f7f11d50a3a" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.ApplicationInsights" publicKeyToken="31bf3856ad364e35" version="2.13.1.12554" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Extensions.Caching.Abstractions" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Extensions.Caching.Memory" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Extensions.Options" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Extensions.DependencyInjection" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Extensions.Http" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.Graph" publicKeyToken="31bf3856ad364e35" version="3.33.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Configuration.ConfigurationManager" publicKeyToken="cc7b13ffcd2ddd51" version="4.0.3.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.CSharp" publicKeyToken="b03f5f7f11d50a3a" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.IdentityModel.Tokens" publicKeyToken="31bf3856ad364e35" version="6.35.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.AspNetCore.StaticFiles" publicKeyToken="adb9793829ddae60" version="2.2.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Portable.Xaml" publicKeyToken="ba4456acace7dab7" version="0.26.0.0" />
+    </dependentAssembly>
+  </dependency>
+</assembly>
